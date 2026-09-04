@@ -147,6 +147,7 @@ function App() {
               <div className="contactDetails">
                 <a href="tel:+905323833905">0532 383 39 05</a>
                 <a href="mailto:nesetilica@outlook.com">nesetilica@outlook.com</a>
+                <span>Eskişehir</span>
               </div>
             </div>
 
