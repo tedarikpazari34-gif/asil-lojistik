@@ -28,11 +28,11 @@ function App() {
 
             <div>
               <span className="eyebrow">Güvenilir • Hızlı • Profesyonel</span>
-              <h1>Lojistik süreçlerinizde güçlü çözüm ortağınız.</h1>
+              <h1>ESKİŞEHİR ASİL LOJİSTİK</h1>
               <p>
-                Asil Lojistik; personel istihdamı, filo yönetimi, forklift ve
-                manlift kiralama, depolama ve lojistik operasyonlarında
-                işletmelere uçtan uca hizmet sunar.
+                Eskişehir Asil Lojistik; forklift ve manlift kiralama, depolama,
+                filo yönetimi, personel istihdamı ve lojistik operasyonlarında
+                Eskişehir ve çevresindeki işletmelere profesyonel çözümler sunar.
               </p>
 
               <div className="heroActions">
