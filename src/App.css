@@ -550,3 +550,9 @@ footer {
     scroll-margin-top: 95px;
   }
 }
+
+.contactDetails span {
+  color: #ffffff;
+  font-size: 1.05rem;
+  font-weight: 600;
+}

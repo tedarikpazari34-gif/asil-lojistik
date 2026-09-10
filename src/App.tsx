@@ -5,7 +5,7 @@ function App() {
     <>
       <header className="topbar">
         <div className="container nav">
-          <a className="brand" href="#anasayfa">ASİL LOJİSTİK</a>
+          <a className="brand" href="#anasayfa">ESKİŞEHİR ASİL LOJİSTİK</a>
 
           <nav>
             <a href="#anasayfa">Ana Sayfa</a>
